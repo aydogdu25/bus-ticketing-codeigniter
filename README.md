@@ -1,4 +1,4 @@
-# Umuttepe Turizm Otobüs Bilet Satış Sitesi
+# Otobüs Bilet Satış Sistemi
 
 Bu proje, CodeIgniter 3 ve PHP kullanılarak geliştirilmiş bir otobüs bilet satış sitesidir.
 
